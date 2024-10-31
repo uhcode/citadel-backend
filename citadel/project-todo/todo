@@ -30,4 +30,9 @@ Music Features
 3. Queue tracks.
 4. Play from start.
 
-lots more but i cba typing it rn.
+Database
+
+1. Supabase (External Database) mostly for junk or storing less useful.
+2. Postgres Database (VERSION 16 or later)
+3. Json storage to store usernames then move to database.
+4. too many features to add :()
