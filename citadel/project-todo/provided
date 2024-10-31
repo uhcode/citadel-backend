@@ -1,0 +1,11 @@
+Modern Interface
+HTML5 audio controls
+Upload function with drag-and-drop support
+List all audio files the user has uploaded.
+Delete function for all audio files.
+Automatic page updates after actions.
+
+File type validation
+Secure file storage
+Error Handling
+Confirmation before deletion

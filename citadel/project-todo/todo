@@ -1,0 +1,33 @@
+CITADEL TODO LIST
+
+Audio Hosting
+
+1. Upload files feature (Supports MP3, WAV, OGG, and M4A).
+2. Play audio directly in the browser.
+3. Delete files feature.
+4. Real-time updates when files are uploaded or deleted.
+5. File type validation.
+6. Secure storage in internal database.
+7. Large scale error handler, supports whole application.
+
+Account Creation
+
+1. Allow username change.
+2. Nickname with username just below in small.
+3. Connect social media accounts.
+4. Discord connection (allows copy of avatar, avatar decoration and status)
+5. Password change through email.
+6. STMP allowance.
+7. Customised emails to the account holder.
+8. VIP options, (paid options).
+9. 2FA for account security.
+10. Accessible IP logging for users. (Check there last login location)
+
+Music Features
+
+1. View liked songs.
+2. Shuffle tracks.
+3. Queue tracks.
+4. Play from start.
+
+lots more but i cba typing it rn.
