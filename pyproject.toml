@@ -1,0 +1,11 @@
+[project]
+name = "citadel"
+version = "0.0.1"
+description = "A free to use music service, download and stream your favourite songs for free."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.4",
+    "quart>=0.19.8",
+    "uvicorn>=0.32.0",
+]
