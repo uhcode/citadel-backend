@@ -1,7 +1,7 @@
 [project]
 name = "citadel"
 version = "0.0.1"
-description = "A free to use music service, download and stream your favourite songs for free."
+description = "Stream, share and download your favourite music, videos all from one website."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
